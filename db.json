@@ -1,5 +1,5 @@
 {
-  "auth": [
+  "users": [
     {
       "id": 1,
       "email": "email@example.com",
@@ -22,3 +22,6 @@
     "email": "ania@test.pl"
   }
 }
+
+
+
