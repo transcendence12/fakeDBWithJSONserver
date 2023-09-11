@@ -14,11 +14,6 @@
       "email": "olivier@mail.com",
       "password": "$2a$10$OypLRu4Xwhecg0IxR/bSH.GWJvAXrmcx8jsPdWWAnsNKyHD65cZG2",
       "id": 3
-    },
-    {
-      "email": "olivia@mail.com",
-      "password": "$2a$10$C/YUX4I/Wb6I/klshx00Ieug6KYhGUBGNYPvqDHmpcFXUiYukYOBS",
-      "id": 4
     }
   ],
   "login": [
